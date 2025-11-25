@@ -9,6 +9,10 @@ It provides a simple Matrix typedef and a general matrix matrix multiplication.
 ## Getting Started
 You can find a [getting started][] in the [docs][] folder.
 
+## API Documentation
+For a complete reference of all functions and data structures, see the [API documentation][api].
+The API provides functions for matrix memory management, data manipulation, and the GEMM operation.
+
 ## Build
 ```bash
 mkdir build
@@ -27,4 +31,5 @@ The sources of *Unity* are included under [unity][].
 
 [getting started]: docs/cGEMM_gettingStarted.md
 [docs]: docs/
+[api]: docs/cgemm_API.md
 [unity]: external/unity/
